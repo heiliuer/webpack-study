@@ -10,11 +10,7 @@
 
     - ```webpack --progess --colors``` 
 
-- webpack 监测变动，自动编译
-
-    - ```webpack --progess --colors --watch``` 
-
-- webpack 监测变动，自动编译
+- webpack 监测文件变动，自动编译
 
     - ```webpack --progess --colors --watch``` 
     
